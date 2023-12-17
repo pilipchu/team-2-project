@@ -1,0 +1,15 @@
+.contener {
+  width: 320px;
+}
+
+.section {
+  padding: 120px 15px;
+}
+
+.all-title {
+  font-size: x-large;
+}
+
+body {
+  background-color: blue;
+}
